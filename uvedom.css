@@ -1,0 +1,18 @@
+p{
+    text-align: center;
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+    font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top:30%;
+    left: 20%;
+    font-size: 40px;
+    font-weight: 900;
+}
+a{
+    text-decoration: none;
+    color: rgb(56, 16, 106);
+    font-weight: 600;
+    font-size: 30px;
+}
